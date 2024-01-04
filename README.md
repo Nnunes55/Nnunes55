@@ -27,7 +27,7 @@
  </div>
 
    </a>
-  <a href="https://wakatime.com/@Nnunes">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Nnunes&theme=tokyonight"/>
+  <a href="https://wakatime.com/Nnunes">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nnunes&theme=tokyonight"/>
 </a>
 </p>
