@@ -4,6 +4,7 @@
 - 🚀 Estudando HTML/CSS/JavaScript
 - 🌟 Contate-me no email: nathannunessp587@gmail.com
 - 😄 Pronomes: ele/dele
+- 📖 Estudante em Salesforce
 
  <div>
    <a href="https://github.com/Nnunes55">
@@ -31,3 +32,5 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nnunes&theme=tokyonight"/>
 </a>
 </p>
+
+![snake gif](https://github.com/Nnunes55/Nnunes55/blob/output/github-contribution-grid-snake.gif)
