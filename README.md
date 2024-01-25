@@ -35,7 +35,7 @@
 <div>
 <a href="https://github.com/Nnunes55">
 <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Nnunes55&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnues55&layout=compact&langs_count=7&theme=react" />
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nnunes55&layout=compact&langs_count=7&theme=react" />
 
 ![Snake animation](https://github.com/Nnunes55/Nnunes55/blob/output/github-contribution-grid-snake.svg)
 
