@@ -14,6 +14,7 @@
    <img align="center" alt="Nn-Js" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Nn-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="right" alt="Nn-Eu" heith="200" width="200" src="https://cdn.discordapp.com/attachments/1098074718424281121/1192244407097892864/download20240103201200.png?ex=65a85f21&is=6595ea21&hm=545cb22e481ab2b1e8a0965120d454c5fbe31a44b8117094415f212ca360b69a&"
+   
  </div>
 
  ##
@@ -42,4 +43,5 @@
 
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Nnunes55&repo=Nnunes55&theme=react)](https://github.com/Nnunes55/Nnunes55)
+
 
